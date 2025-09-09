@@ -1,0 +1,61 @@
+# -----------------
+# Python / ML basics
+# -----------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.env/
+.venv/
+pec2_venv/
+
+# -----------------
+# Jupyter
+# -----------------
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# -----------------
+# Data files
+# -----------------
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.geojson
+*.zip
+
+# -----------------
+# Machine Learning outputs
+# -----------------
+*.log
+*.out
+*.err
+*.h5
+*.hdf5
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.pb
+*.pickle
+*.pkl
+*.joblib
+
+# -----------------
+# Project-specific folders
+# -----------------
+
+
+# -----------------
+# IDE / System files
+# -----------------
+.DS_Store
+.vscode/
+.idea/
+*.swp
